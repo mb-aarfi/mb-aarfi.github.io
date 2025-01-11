@@ -4,7 +4,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-:root {
+ :root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -8798,7 +8798,7 @@ h1, h2, h3, h4, h5,
       .ftco-about ul.about-info li span:first-child {
         font-weight: 600;
         color: #fff;
-        width: 130px; }
+        width: 600px; }
 
 .ftco-about .counter-wrap .text p {
   font-size: 20px; }
@@ -8808,6 +8808,8 @@ h1, h2, h3, h4, h5,
   .ftco-about .counter-wrap .text p span.number {
     font-weight: 600;
     color: #ffbd39; }
+
+  
 
 .resume-wrap {
   width: 100%;
